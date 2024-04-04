@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sap-fsm/static/css/main.f855e6bc.css",
-    "main.js": "/sap-fsm/static/js/main.586444dc.js",
-    "static/js/453.7c6e3777.chunk.js": "/sap-fsm/static/js/453.7c6e3777.chunk.js",
-    "static/media/logo.svg": "/sap-fsm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sap-fsm/static/css/main.c8e9c2b2.css",
+    "main.js": "/sap-fsm/static/js/main.55f2fd5a.js",
+    "static/js/453.2c9924de.chunk.js": "/sap-fsm/static/js/453.2c9924de.chunk.js",
     "index.html": "/sap-fsm/index.html",
-    "main.f855e6bc.css.map": "/sap-fsm/static/css/main.f855e6bc.css.map",
-    "main.586444dc.js.map": "/sap-fsm/static/js/main.586444dc.js.map",
-    "453.7c6e3777.chunk.js.map": "/sap-fsm/static/js/453.7c6e3777.chunk.js.map"
+    "main.c8e9c2b2.css.map": "/sap-fsm/static/css/main.c8e9c2b2.css.map",
+    "main.55f2fd5a.js.map": "/sap-fsm/static/js/main.55f2fd5a.js.map",
+    "453.2c9924de.chunk.js.map": "/sap-fsm/static/js/453.2c9924de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.586444dc.js"
+    "static/css/main.c8e9c2b2.css",
+    "static/js/main.55f2fd5a.js"
   ]
 }
