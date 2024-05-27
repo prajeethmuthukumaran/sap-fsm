@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sap-fsm/static/css/main.355fece6.css",
-    "main.js": "/sap-fsm/static/js/main.23dabe2f.js",
+    "main.css": "/sap-fsm/static/css/main.ef6648cc.css",
+    "main.js": "/sap-fsm/static/js/main.6248f378.js",
     "index.html": "/sap-fsm/index.html",
-    "main.355fece6.css.map": "/sap-fsm/static/css/main.355fece6.css.map",
-    "main.23dabe2f.js.map": "/sap-fsm/static/js/main.23dabe2f.js.map"
+    "main.ef6648cc.css.map": "/sap-fsm/static/css/main.ef6648cc.css.map",
+    "main.6248f378.js.map": "/sap-fsm/static/js/main.6248f378.js.map"
   },
   "entrypoints": [
-    "static/css/main.355fece6.css",
-    "static/js/main.23dabe2f.js"
+    "static/css/main.ef6648cc.css",
+    "static/js/main.6248f378.js"
   ]
 }
